@@ -1,21 +1,22 @@
 
 
-![Captura de tela de 2021-04-07 22-02-23](https://user-images.githubusercontent.com/42784533/113952919-0ca33d00-97ed-11eb-89d3-4e9d551624c8.png)
+![Captura de tela de 2021-04-07 22-09-20](https://user-images.githubusercontent.com/42784533/113953332-f6e24780-97ed-11eb-9c18-f430b3c2da9a.png)
+
 <br>
 
 <h3>Here you will find some projects I did, feel free to take a tour and get to know a little of my work.</h3>
 <br>
-<p>These are the technologies I know how to work with:</p>
+<p>:point_right: These are the technologies I know how to work with:</p>
 
 <ul>
-  <li>JavaScript</li>
-  <li>PHP</li>
-  <li>NodeJS</li>
-  <li>ReactJS</li>
-  <li>Laravel</li>
-  <li>MySQL</li>
-  <li>MongoDB</li>
-  <li>NextJS</li>
+  <li>:arrow_right: JavaScript</li>
+  <li>:arrow_right: PHP</li>
+  <li>:arrow_right: NodeJS</li>
+  <li>:arrow_right: ReactJS</li>
+  <li>:arrow_right: Laravel</li>
+  <li>:arrow_right: MySQL</li>
+  <li>:arrow_right: MongoDB</li>
+  <li>:arrow_right: NextJS</li>
 </ul>
 
 <br><br>

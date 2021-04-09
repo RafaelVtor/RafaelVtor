@@ -5,8 +5,9 @@
 <br>
 
 <h3>Here you will find some projects I did, feel free to take a tour and get to know a little of my work.</h3>
+
 <br>
-<p>:point_right: **These are the technologies I know how to work with:**</p>
+<p>💻 These are the technologies I know how to work with:</p>
 
 <ul>
   <li>:arrow_right: JavaScript</li>
@@ -21,6 +22,6 @@
 
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelVtor&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVtor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 

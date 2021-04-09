@@ -6,7 +6,7 @@
 
 <h3>Here you will find some projects I did, feel free to take a tour and get to know a little of my work.</h3>
 <br>
-<p>:point_right: These are the technologies I know how to work with:</p>
+<p>:point_right: **These are the technologies I know how to work with:**</p>
 
 <ul>
   <li>:arrow_right: JavaScript</li>
